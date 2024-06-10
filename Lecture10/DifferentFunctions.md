@@ -26,7 +26,7 @@ Function acts as a value.
 
 
 ```
-Anonyous Function
+Anonymous Function
 
 Function Without a name called anonymos function. it doesnot have its identity because it does not have its name.
 
