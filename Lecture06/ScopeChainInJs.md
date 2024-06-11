@@ -18,7 +18,7 @@ Ans:- Lexical Parent Means only the single parent function of that function wher
 ```
 ```
 Q.Lexical Environment is What
-Ans: Local Memory + Lexical Environment of its Parent
+Ans: Local Memory + refrence of the Lexical Environment of its Parent
 ```
 ```
 And the whole Chain of lexical Enivironment called Scope Chain
